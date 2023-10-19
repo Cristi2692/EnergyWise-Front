@@ -3,7 +3,7 @@ import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
 import { useTheme } from "@mui/material/styles";
-import { Button, CardActionArea, Paper } from "@mui/material";
+import { Button, CardActionArea } from "@mui/material";
 import { Box, Grid } from "@mui/material";
 // import Fab from "@mui/material/Fab";
 // import AddIcon from "@mui/icons-material/Add";
@@ -15,15 +15,6 @@ import { Link } from "react-router-dom";
 export default function Sliders({ dispositivos }) {
   const theme = useTheme();
   const hasDevices = dispositivos && dispositivos.length > 0;
-  const consumosFicticios = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
-  const consumosFormateados = consumosFicticios.map((consumo) => {
-    return (
-      consumo.toLocaleString("es-ES", {
-        minimumFractionDigits: 2,
-        maximumFractionDigits: 2,
-      }) + " kWh"
-    );
-  });
   return hasDevices ? (
     <>
       <Box
@@ -106,50 +97,7 @@ export default function Sliders({ dispositivos }) {
                           </CardContent>
                         </Grid>
                         {/* Columna para la tarjetita a la derecha */}
-                        <Grid item xs={5}>
-                          <Paper
-                            elevation={2}
-                            sx={{
-                              padding: 2,
-                              mr: 2,
-                              height: "80px",
-                              borderRadius: "10px",
-                              display: "flex",
-                              flexDirection: "column",
-                              justifyContent: "center",
-                              alignItems: "center",
-                              background: "#00b0980f",
-                              color: "#333",
-                              border: `2px solid #00B098`,
-                            }}
-                          >
-                            {/* <SavingsIcon
-                              style={{
-                                fontSize: 26,
-                                marginBottom: "18px",
-                                color: "#00B098",
-                              }}
-                            />{" "}
-                             Icono   */}
-                            <Typography
-                              variant="body2"
-                              mt={-1.5}
-                              mb={0.5}
-                              gutterBottom
-                            >
-                              Consumo este mes:
-                            </Typography>
-                            <Typography
-                              variant="h5"
-                              style={{
-                                color: theme.palette.primary.dark,
-                                fontWeight: "bold",
-                              }}
-                            >
-                              {consumosFormateados[index]}
-                            </Typography>
-                          </Paper>
-                        </Grid>
+                        <Grid item xs={5}></Grid>
                       </Grid>
                     </Grid>
                   </CardActionArea>

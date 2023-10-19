@@ -6,14 +6,14 @@ import { useState } from "react";
 
 export default function Devices() {
   const [modalOpen, setModalOpen] = useState(false);
-  const [alertMessage, setAlertMessage] = useState("");
+  // const [alertMessage, setAlertMessage] = useState("");
 
-  const handleSuccess = (message) => {
-    setAlertMessage(message);
+  const handleSuccess = () => {
+    // setAlertMessage(message);
     setModalOpen(false);
-    setTimeout(() => {
-      setAlertMessage("");
-    }, 4000);
+    // setTimeout(() => {
+    //   setAlertMessage("");
+    // }, 4000);
   };
   return (
     <>
@@ -42,7 +42,7 @@ export default function Devices() {
           </Typography>
         </Box>
 
-        {alertMessage && (
+        {/* {alertMessage && (
           <Box
             sx={{
               bgcolor: "rgba(0, 255, 0, 0.1)", // Fondo ligeramente verde
@@ -58,7 +58,7 @@ export default function Devices() {
           >
             {alertMessage}
           </Box>
-        )}
+        )} */}
 
         <AddDeviceModal
           isOpen={modalOpen}

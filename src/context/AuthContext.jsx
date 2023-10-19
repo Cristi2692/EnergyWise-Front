@@ -3,6 +3,7 @@ import { createContext, useState, useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import Alert from "@mui/material/Alert";
 import { errors } from "../const/errors";
+import Swal from "sweetalert2";
 
 const AuthContext = createContext({
   user: null,
@@ -46,16 +47,19 @@ export default function AuthContextProvider({ children }) {
         password,
       })
       .then(() => {
-        setAlertMessage({
-          type: "success",
-          message: "Registro exitoso. Redirigiendo al inicio de sesión...",
+        // Notificación de éxito con SweetAlert2
+        Swal.fire({
+          title: "Éxito",
+          text: "Registro exitoso. Redirigiendo al inicio de sesión...",
+          icon: "success",
+          timer: 3000, // Se cierra después de 3 segundos
+          showConfirmButton: false,
+        }).then((result) => {
+          // Se redirige al usuario cuando la alerta se cierra
+          if (result.dismiss === Swal.DismissReason.timer) {
+            navigate("/login");
+          }
         });
-
-        // Después de 3 segundos, redirige al usuario al inicio de sesión y limpia el mensaje
-        setTimeout(() => {
-          setAlertMessage("");
-          navigate("/login");
-        }, 3000);
       })
       .catch((err) => {
         setAlertMessage(errors[err.response.status]);

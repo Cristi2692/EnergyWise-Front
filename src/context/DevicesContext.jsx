@@ -3,6 +3,7 @@ import axios from "axios";
 import { parseISO } from "date-fns";
 import { useNavigate } from "react-router-dom";
 import Alert from "@mui/material/Alert";
+import Swal from "sweetalert2";
 
 const DevicesContext = createContext({
   devices: [],
@@ -77,6 +78,12 @@ export default function DevicesContextProvider({ children }) {
       .then((response) => {
         if (response.status === 200) {
           console.log("Dispositivo añadido exitosamente");
+          Swal.fire({
+            title: "Éxito",
+            text: "Dispositivo añadido exitosamente.",
+            icon: "success",
+            confirmButtonText: "Aceptar",
+          });
         }
         return response;
       })
@@ -249,6 +256,13 @@ export default function DevicesContextProvider({ children }) {
       .then((response) => {
         if (response.status === 200) {
           console.log(response.data);
+
+          Swal.fire({
+            title: "Éxito",
+            text: "Configuración guardada con éxito.",
+            icon: "success",
+            confirmButtonText: "Aceptar",
+          });
 
           return response.data;
         }

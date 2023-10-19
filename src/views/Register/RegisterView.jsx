@@ -97,7 +97,7 @@ export default function RegisterView({ handleSubmit }) {
                   padding: "0.5rem 1rem",
                 }}
               >
-                Inicia sesión
+                Regístrate
               </Typography>
               <Formik
                 initialValues={initialValues}

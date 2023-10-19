@@ -32,10 +32,21 @@ function CostOfDevices({ data }) {
         padding: [23, 0, 0, 0],
       },
       xAxis: {
+        name: "Dispositivos",
+        nameTextStyle: {
+          fontWeight: "bold", // Establece el estilo en negrita
+          fontSize: 13, // Ajusta el tamaño de la fuente según lo necesites
+        },
+        nameGap: 23,
         type: "category",
         data: data.map((item) => item.name),
       },
       yAxis: {
+        name: "Consumo kW",
+        nameTextStyle: {
+          fontWeight: "bold", // Establece el estilo en negrita
+          fontSize: 13, // Ajusta el tamaño de la fuente según lo necesites
+        },
         type: "value",
       },
       series: [
