@@ -1,0 +1,1187 @@
+{
+	"datos":
+	[
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "00-01",
+		"PrecioPromedio" : 135.12438650150415,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "01-02",
+		"PrecioPromedio" : 130.06633809202873,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "02-03",
+		"PrecioPromedio" : 127.55426237231396,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "03-04",
+		"PrecioPromedio" : 125.75305819751271,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "04-05",
+		"PrecioPromedio" : 124.56567406606386,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "05-06",
+		"PrecioPromedio" : 124.89000022243447,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "06-07",
+		"PrecioPromedio" : 126.21655915104887,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "07-08",
+		"PrecioPromedio" : 126.32468821105343,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "08-09",
+		"PrecioPromedio" : 124.80028200821138,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "09-10",
+		"PrecioPromedio" : 122.34955741222235,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "10-11",
+		"PrecioPromedio" : 117.28772604345556,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "11-12",
+		"PrecioPromedio" : 114.88943670645087,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "12-13",
+		"PrecioPromedio" : 113.70460739749778,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "13-14",
+		"PrecioPromedio" : 113.62293799494354,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "14-15",
+		"PrecioPromedio" : 111.93295797735632,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "15-16",
+		"PrecioPromedio" : 107.79561354025029,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "16-17",
+		"PrecioPromedio" : 108.17645872334839,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "17-18",
+		"PrecioPromedio" : 113.74374240360989,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "18-19",
+		"PrecioPromedio" : 123.47424545134577,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "19-20",
+		"PrecioPromedio" : 134.11828980167627,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "20-21",
+		"PrecioPromedio" : 143.41245509249345,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "21-22",
+		"PrecioPromedio" : 147.2876862232354,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "22-23",
+		"PrecioPromedio" : 144.50830987665495,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "23-24",
+		"PrecioPromedio" : 137.63537200835628,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 1,
+		"DiaSemana" : "Domingo",
+		"Hora" : "24-25",
+		"PrecioPromedio" : 124.12555525037978,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "00-01",
+		"PrecioPromedio" : 135.76487863980807,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "01-02",
+		"PrecioPromedio" : 130.4370446185834,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "02-03",
+		"PrecioPromedio" : 127.54204472066903,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "03-04",
+		"PrecioPromedio" : 126.20236857024281,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "04-05",
+		"PrecioPromedio" : 125.78999993482581,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "05-06",
+		"PrecioPromedio" : 129.00105224640262,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "06-07",
+		"PrecioPromedio" : 136.84155864947238,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "07-08",
+		"PrecioPromedio" : 144.36564837004008,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "08-09",
+		"PrecioPromedio" : 152.2886031146957,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "09-10",
+		"PrecioPromedio" : 148.81504078915245,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "10-11",
+		"PrecioPromedio" : 155.93352233639612,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "11-12",
+		"PrecioPromedio" : 152.25682141230658,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "12-13",
+		"PrecioPromedio" : 150.5609511325234,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "13-14",
+		"PrecioPromedio" : 149.2007896060403,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "14-15",
+		"PrecioPromedio" : 135.07678124586099,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "15-16",
+		"PrecioPromedio" : 133.33224670317492,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "16-17",
+		"PrecioPromedio" : 134.51623520484338,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "17-18",
+		"PrecioPromedio" : 139.47558704947653,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "18-19",
+		"PrecioPromedio" : 157.57680174792827,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "19-20",
+		"PrecioPromedio" : 164.8417615388569,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "20-21",
+		"PrecioPromedio" : 170.31947359092806,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "21-22",
+		"PrecioPromedio" : 169.78301654460458,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "22-23",
+		"PrecioPromedio" : 151.4388660940564,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 2,
+		"DiaSemana" : "Lunes",
+		"Hora" : "23-24",
+		"PrecioPromedio" : 144.88615406669587,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "00-01",
+		"PrecioPromedio" : 138.22411314133674,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "01-02",
+		"PrecioPromedio" : 133.87439497440093,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "02-03",
+		"PrecioPromedio" : 130.90175410624474,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "03-04",
+		"PrecioPromedio" : 129.66614918170436,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "04-05",
+		"PrecioPromedio" : 129.34187472251153,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "05-06",
+		"PrecioPromedio" : 131.80368952597343,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "06-07",
+		"PrecioPromedio" : 138.4675198524229,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "07-08",
+		"PrecioPromedio" : 145.7349194557436,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "08-09",
+		"PrecioPromedio" : 154.23568564076578,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "09-10",
+		"PrecioPromedio" : 150.43044395600594,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "10-11",
+		"PrecioPromedio" : 157.583709901379,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "11-12",
+		"PrecioPromedio" : 154.30250000184583,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "12-13",
+		"PrecioPromedio" : 152.71088692449754,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "13-14",
+		"PrecioPromedio" : 151.3902014609306,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "14-15",
+		"PrecioPromedio" : 137.13804446497272,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "15-16",
+		"PrecioPromedio" : 135.35604819174736,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "16-17",
+		"PrecioPromedio" : 136.57221736446505,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "17-18",
+		"PrecioPromedio" : 141.25131059462024,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "18-19",
+		"PrecioPromedio" : 159.07693556816346,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "19-20",
+		"PrecioPromedio" : 166.13443553063178,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "20-21",
+		"PrecioPromedio" : 171.06862895719468,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "21-22",
+		"PrecioPromedio" : 170.5982056586973,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "22-23",
+		"PrecioPromedio" : 152.88395167166186,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 3,
+		"DiaSemana" : "Martes",
+		"Hora" : "23-24",
+		"PrecioPromedio" : 145.91167303823656,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "00-01",
+		"PrecioPromedio" : 138.71305855994734,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "01-02",
+		"PrecioPromedio" : 134.26175055705326,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "02-03",
+		"PrecioPromedio" : 131.51116709258235,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "03-04",
+		"PrecioPromedio" : 130.17012080148433,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "04-05",
+		"PrecioPromedio" : 129.6777867676027,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "05-06",
+		"PrecioPromedio" : 131.97237428668998,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "06-07",
+		"PrecioPromedio" : 138.57734417291715,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "07-08",
+		"PrecioPromedio" : 146.20052319992956,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "08-09",
+		"PrecioPromedio" : 154.74507032121932,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "09-10",
+		"PrecioPromedio" : 150.35509053466305,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "10-11",
+		"PrecioPromedio" : 157.64243497790946,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "11-12",
+		"PrecioPromedio" : 153.81509048646126,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "12-13",
+		"PrecioPromedio" : 152.23287722474373,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "13-14",
+		"PrecioPromedio" : 150.94070433035222,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "14-15",
+		"PrecioPromedio" : 136.20631777112874,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "15-16",
+		"PrecioPromedio" : 134.7487120599574,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "16-17",
+		"PrecioPromedio" : 135.8935414703799,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "17-18",
+		"PrecioPromedio" : 140.5549295605788,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "18-19",
+		"PrecioPromedio" : 158.44002015633842,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "19-20",
+		"PrecioPromedio" : 165.50058339539189,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "20-21",
+		"PrecioPromedio" : 170.41786691216635,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "21-22",
+		"PrecioPromedio" : 170.19440670512333,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "22-23",
+		"PrecioPromedio" : 152.27277690496004,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 4,
+		"DiaSemana" : "Miércoles",
+		"Hora" : "23-24",
+		"PrecioPromedio" : 145.74146860226298,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "00-01",
+		"PrecioPromedio" : 139.68996015035484,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "01-02",
+		"PrecioPromedio" : 135.19289149242232,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "02-03",
+		"PrecioPromedio" : 132.30933769256714,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "03-04",
+		"PrecioPromedio" : 131.116425694232,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "04-05",
+		"PrecioPromedio" : 130.7605621383851,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "05-06",
+		"PrecioPromedio" : 133.21333317584302,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "06-07",
+		"PrecioPromedio" : 139.36341342389824,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "07-08",
+		"PrecioPromedio" : 146.2897391798027,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "08-09",
+		"PrecioPromedio" : 154.56146604852026,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "09-10",
+		"PrecioPromedio" : 150.36447777805557,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "10-11",
+		"PrecioPromedio" : 157.35905631957763,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "11-12",
+		"PrecioPromedio" : 154.14646592963652,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "12-13",
+		"PrecioPromedio" : 152.45787123408184,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "13-14",
+		"PrecioPromedio" : 151.22779099338027,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "14-15",
+		"PrecioPromedio" : 136.61598394003258,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "15-16",
+		"PrecioPromedio" : 135.36471887764682,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "16-17",
+		"PrecioPromedio" : 136.3015664112137,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "17-18",
+		"PrecioPromedio" : 140.67102394716807,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "18-19",
+		"PrecioPromedio" : 158.73799219859174,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "19-20",
+		"PrecioPromedio" : 165.13335352824873,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "20-21",
+		"PrecioPromedio" : 169.63578302314482,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "21-22",
+		"PrecioPromedio" : 169.56809266791285,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "22-23",
+		"PrecioPromedio" : 152.1256426769088,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 5,
+		"DiaSemana" : "Jueves",
+		"Hora" : "23-24",
+		"PrecioPromedio" : 146.44530104058813,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "00-01",
+		"PrecioPromedio" : 139.34866940590643,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "01-02",
+		"PrecioPromedio" : 134.77137084930175,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "02-03",
+		"PrecioPromedio" : 131.71828605282693,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "03-04",
+		"PrecioPromedio" : 130.31157242867255,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "04-05",
+		"PrecioPromedio" : 129.45225801775533,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "05-06",
+		"PrecioPromedio" : 131.74612883598573,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "06-07",
+		"PrecioPromedio" : 137.7201413339184,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "07-08",
+		"PrecioPromedio" : 145.01818537712097,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "08-09",
+		"PrecioPromedio" : 153.44618944967948,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "09-10",
+		"PrecioPromedio" : 149.1577220039983,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "10-11",
+		"PrecioPromedio" : 156.65151209215963,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "11-12",
+		"PrecioPromedio" : 153.20129035365196,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "12-13",
+		"PrecioPromedio" : 151.4836693271514,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "13-14",
+		"PrecioPromedio" : 149.88020163197672,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "14-15",
+		"PrecioPromedio" : 134.9780239674353,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "15-16",
+		"PrecioPromedio" : 133.1515525617907,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "16-17",
+		"PrecioPromedio" : 134.37124988340562,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "17-18",
+		"PrecioPromedio" : 138.7529635967747,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "18-19",
+		"PrecioPromedio" : 156.41663311373802,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "19-20",
+		"PrecioPromedio" : 163.0278428369953,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "20-21",
+		"PrecioPromedio" : 167.80905255963725,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "21-22",
+		"PrecioPromedio" : 167.90526208569926,
+		"CategoriaPrecio" : "Caro"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "22-23",
+		"PrecioPromedio" : 151.31745972941,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 6,
+		"DiaSemana" : "Viernes",
+		"Hora" : "23-24",
+		"PrecioPromedio" : 145.95578616665256,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "00-01",
+		"PrecioPromedio" : 139.6800200924787,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "01-02",
+		"PrecioPromedio" : 135.34350112362407,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "02-03",
+		"PrecioPromedio" : 132.36245467341402,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "03-04",
+		"PrecioPromedio" : 130.9256538759535,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "04-05",
+		"PrecioPromedio" : 130.1368410966286,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "05-06",
+		"PrecioPromedio" : 130.27046294183558,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "06-07",
+		"PrecioPromedio" : 131.5054524074378,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "07-08",
+		"PrecioPromedio" : 132.96032211334412,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "08-09",
+		"PrecioPromedio" : 133.94003985153597,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "09-10",
+		"PrecioPromedio" : 133.01380282580493,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "10-11",
+		"PrecioPromedio" : 129.1971226621202,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "11-12",
+		"PrecioPromedio" : 125.5042053545025,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "12-13",
+		"PrecioPromedio" : 123.45478892949986,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "13-14",
+		"PrecioPromedio" : 122.51995974335392,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "14-15",
+		"PrecioPromedio" : 119.81315891411703,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "15-16",
+		"PrecioPromedio" : 115.9782900167423,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "16-17",
+		"PrecioPromedio" : 116.01018121208944,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "17-18",
+		"PrecioPromedio" : 120.82366184257646,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "18-19",
+		"PrecioPromedio" : 129.89758542174064,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "19-20",
+		"PrecioPromedio" : 138.04605639052824,
+		"CategoriaPrecio" : "Barato"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "20-21",
+		"PrecioPromedio" : 144.07080484156157,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "21-22",
+		"PrecioPromedio" : 146.1604423292686,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "22-23",
+		"PrecioPromedio" : 142.69927547923035,
+		"CategoriaPrecio" : "Medio"
+	},
+	{
+		"NumeroDiaSemana" : 7,
+		"DiaSemana" : "Sábado",
+		"Hora" : "23-24",
+		"PrecioPromedio" : 137.64448683986242,
+		"CategoriaPrecio" : "Barato"
+	}
+]}
